@@ -57,4 +57,4 @@ client.user.setGame(`STAFF 💙`)
 
 
 
-client.login("ODU4MzE4MjEyOTY1ODU5MzQ5.YNcZIA.WfpkuF3qjOlf4F4Gwmxd2NO29e8");// Your Token
+client.login("ODU4MzE4MjEyOTY1ODU5MzQ5.YNcZIA.TpCq-WQJkCEOojnpmCyzunc82S0");// Your Token
